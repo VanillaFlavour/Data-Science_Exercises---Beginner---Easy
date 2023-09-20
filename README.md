@@ -1,5 +1,5 @@
 # Data-Science_Exercises
-Exercicios propostos no curso da alura, com intuito de fortalecer a prática e o conhecimento em data science.
+Proposed exercises from Alura's data science course designed to strengthen practical skills and knowledge in data science.
 
-Separei aqui, alguns dos exercícios que mais gostei de resolver. Deixei aqui salvo para quem queira ver minhas resoluções e também para servir de informações no futuro, caso necessário.
+I've selected some of my favorite exercises to solve and have saved them here for anyone interested in viewing my solutions. Additionally, this repository serves as a resource for future reference, if needed.
 
